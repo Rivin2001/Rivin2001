@@ -42,20 +42,8 @@ Here are the technologies I love working with:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivin2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivin2001&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
-</p>
-
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivin2001&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-</p>
-
----
 
 ### 🤝 Let's Connect
-<a href="https://www.linkedin.com/in/rivin-weeraka/">
+<a href="[https://www.linkedin.com/in/rivin-weeraka/](https://www.linkedin.com/in/rivin-weeraka-43170810b/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
