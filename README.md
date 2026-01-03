@@ -37,23 +37,6 @@ I am a motivated Software Engineering student passionate about building scalable
 ---
 
 
-
-### 📊 GitHub Stats
-
-<p align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivin2001&show_icons=true&theme=dark&hide_border=true" alt="Rivin's Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivin2001&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-</p>
-
-
-
----
-
-
-
 ### 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/rivin-weeraka-43170810b/">
