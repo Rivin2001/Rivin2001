@@ -4,7 +4,7 @@
 
 I am a motivated Software Engineering student passionate about building scalable web applications and solving complex problems.
 
-- 🔭 I’m currently specializing in **Angular** (Frontend) and **Spring Boot** (Backend).
+- 🔭 I’m currently specializing in Full Stack Development.
 - 🌱 I’m focusing on building full-stack applications with clean architecture.
 - 🎓 Software Engineering undergraduate at **IIT School of Computing**.
 
