@@ -35,13 +35,6 @@ Here are the technologies I love working with:
 
 ---
 
-### 🏆 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rivin2001&theme=flat&no-frame=true&margin-w=15" alt="Rivin2001 trophies" />
-</a>
-
----
-
 
 ### 🤝 Let's Connect
 <a href="[https://www.linkedin.com/in/rivin-weeraka/](https://www.linkedin.com/in/rivin-weeraka-43170810b/)">
