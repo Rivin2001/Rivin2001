@@ -49,18 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivin2001&show_icons=true&theme=radical&count_private=true" height="180" alt="Rivin's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivin2001&layout=compact&theme=radical" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivin2001&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🤝 Let's Connect
 
@@ -68,9 +57,7 @@
   <a href="https://www.linkedin.com/in/rivin-weeraka-43170810b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:weerakarivin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
 </div>
 
 <div align="center">
