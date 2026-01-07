@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines= Hi,+I'm+Rivin+Weeraka!+%F0%9F%91%8B;+Undergraduate IIT;Full+Stack+Developer;Java+%26+Angular+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Rivin+Weeraka!+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full+Stack+Developer;Java+%26+Angular+Enthusiast;Actively+Seeking+Associate+SE+Roles" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -49,7 +49,18 @@
 
 ---
 
+### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rivin2001&show_icons=true&theme=radical&count_private=true" height="180" alt="Rivin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivin2001&layout=compact&theme=radical" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivin2001&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
 
 ### 🤝 Let's Connect
 
@@ -57,7 +68,9 @@
   <a href="https://www.linkedin.com/in/rivin-weeraka-43170810b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  <a href="mailto:weerakarivin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <div align="center">
