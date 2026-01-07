@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Rivin+Weeraka!+%F0%9F%91%8B;Associate+Software+Engineer;Full+Stack+Developer;Java+%26+Angular+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Rivin+Weeraka!+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full+Stack+Developer;Java+%26+Angular+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Aspiring Full Stack Developer | IIT Undergraduate</h3>
+  <h3>🚀 Aspiring Associate Software Engineer | IIT Undergraduate</h3>
   <p><i>Building scalable web applications & solving complex problems with clean architecture.</i></p>
 </div>
 
@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as an **Associate Software Engineer**, focusing on Enterprise Applications.
+- 🔭 I recently completed a **6-month Software Engineering Internship**, specializing in Full Stack Development.
+- 💼 I’m actively seeking opportunities as an **Associate Software Engineer**.
 - 🌱 I have hands-on experience in **Java (Spring Boot)** and **Angular**.
 - 💡 I specialize in **Automation** using Google Apps Script & Cloud Integrations.
 - 🎓 Final year undergraduate at **Informatics Institute of Technology (IIT)**.
-- 👯 I’m looking to collaborate on open-source **Java & Spring Boot** projects.
 
 ---
 
